@@ -5,8 +5,9 @@
 - 💬 Ask me about **Backend Development**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/akshay-varma-1a5bb2a9/)**
 
-<!--
-**akkivarma/akkivarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkivarma&layout=compact&theme=dark&hide_border=true)
 
-- ⚡ Fun fact: ...
--->
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akkivarma&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akkivarma)](https://github.com/akkivarma/github-profile-trophy)
+
